@@ -1,4 +1,4 @@
-# 60.Permutation-Sequence
+# [60.Permutation-Sequence](https://leetcode.com/problems/permutation-sequence/description/)
 
 The set **[1, 2, 3, ..., n]** contains a total of **n!** unique permutations.
 
@@ -42,3 +42,13 @@ Constraints:
 1 <= n <= 9
 1 <= k <= n!
 ```
+
+## Решение 
+
+Финальный вариант решения после оптимизации в [main.py](https://github.com/BadRedCrab/Permutation-Sequence/blob/main/main.py)
+
+![main.py](https://github.com/user-attachments/assets/7268cde5-ad24-4221-9205-1f4e5b5cd9f8)
+
+Первый варинт решения до оптимизации в [old_main.py](https://github.com/BadRedCrab/Permutation-Sequence/blob/main/old_main.py)
+
+![old_main.py](https://github.com/user-attachments/assets/9d4fc4e3-b4c2-469b-8697-3fd6d244f79e)
